@@ -1,5 +1,5 @@
 # TRELLO - API
-Este repositório contém testes de API para os endpoints de ações do Trello, os quais foram realizados utilizando o Postman. Eles incluem interações com as ações mais importantes que os usuários executam em um quadro do Trello. A automação desses testes via GitHub Actions foi implementada devido à relevância dessas ações para os usuários.
+Este repositório contém testes de API para os endpoints de ações do Trello, os quais foram realizados utilizando o Postman. Eles incluem interações com as ações mais importantes que os usuários executam em um quadro do Trello. A automação desses testes via GitHub Actions foi implementada pensando na relevância dessas ações para os usuários.
 
 ## Tecnologias utilizadas
 - Postman versão web
