@@ -625,7 +625,7 @@
 						},
 						{
 							"key": "token",
-							"value": "ATTA079c4accac9711cf2fe0836bddfc39fce53ba1908d5646a370f72ac9ae7f240388F4286F"
+							"value": "${{API_TOKEN}}"
 						}
 					]
 				}
